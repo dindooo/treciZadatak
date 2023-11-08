@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\zadatakTreci\bin\Debug\zadatakTreci.exe.config
+C:\Users\ucenik\source\repos\zadatakTreci\bin\Debug\zadatakTreci.exe
+C:\Users\ucenik\source\repos\zadatakTreci\bin\Debug\zadatakTreci.pdb
+C:\Users\ucenik\source\repos\zadatakTreci\obj\Debug\zadatakTreci.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\zadatakTreci\obj\Debug\zadatakTreci.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\zadatakTreci\obj\Debug\zadatakTreci.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\zadatakTreci\obj\Debug\zadatakTreci.exe
+C:\Users\ucenik\source\repos\zadatakTreci\obj\Debug\zadatakTreci.pdb
